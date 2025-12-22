@@ -1,7 +1,7 @@
 # Calorie 🥗🔥
 
 Calorie is a modern **Flutter calorie tracking application** designed to help users calculate their daily nutritional needs and track their food intake accurately.  
-The app provides a smooth and elegant **UI/UX**, full **personalization options**, and **multi-language support**, all while working completely **offline** using a local database.
+The app provides a smooth and elegant **UI/UX**, full **personalization options**, and **multi-language support**, all while working completely **offline** using a local database sqlite.
 
 ---
 
