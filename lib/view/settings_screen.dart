@@ -1,5 +1,5 @@
 import 'package:calorie/consts.dart';
-import 'package:calorie/screens/personal_information.dart';
+import 'package:calorie/view/personal_information.dart';
 import 'package:calorie/sqlite/sqflite.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

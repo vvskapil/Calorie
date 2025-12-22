@@ -1,6 +1,6 @@
 import 'package:calorie/consts.dart';
 import 'package:calorie/getx/controller.dart';
-import 'package:calorie/screens/add_option_screen.dart';
+import 'package:calorie/view/add_option_screen.dart';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -272,8 +272,7 @@ class AddMealScreen extends StatelessWidget {
                       )),
         ),
       ),
-    );
-  }
+    );}
 
   // Helper widget for nutrition items
 }

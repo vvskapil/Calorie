@@ -1,5 +1,5 @@
 import 'package:calorie/getx/controller.dart';
-import 'package:calorie/screens/tutrial_screen.dart';
+import 'package:calorie/view/tutrial_screen.dart';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

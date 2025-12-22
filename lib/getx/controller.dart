@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:ui';
 
-import 'package:calorie/screens/home_screen.dart';
+import 'package:calorie/view/home_screen.dart';
 import 'package:calorie/sqlite/sqflite.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

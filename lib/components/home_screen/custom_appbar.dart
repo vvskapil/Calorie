@@ -1,6 +1,6 @@
 import 'package:calorie/consts.dart';
 import 'package:calorie/getx/controller.dart';
-import 'package:calorie/screens/settings_screen.dart';
+import 'package:calorie/view/settings_screen.dart';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

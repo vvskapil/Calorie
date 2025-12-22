@@ -9,8 +9,8 @@ import 'package:calorie/components/home_screen/nutration_value.dart';
 import 'package:calorie/consts.dart';
 
 import 'package:calorie/getx/controller.dart';
-import 'package:calorie/screens/add_meal_screen.dart';
-import 'package:calorie/screens/add_option_screen.dart';
+import 'package:calorie/view/add_meal_screen.dart';
+import 'package:calorie/view/add_option_screen.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

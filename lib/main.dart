@@ -2,7 +2,7 @@ import 'package:calorie/consts.dart';
 import 'package:calorie/getx/controller.dart';
 import 'package:calorie/getx/locale.dart';
 
-import 'package:calorie/screens/splash_screen.dart';
+import 'package:calorie/view/splash_screen.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

@@ -4,7 +4,7 @@ import 'package:calorie/components/home_screen/tile_line.dart';
 import 'package:calorie/consts.dart';
 import 'package:calorie/getx/controller.dart';
 
-import 'package:calorie/screens/item_screen_for_meal_list.dart';
+import 'package:calorie/view/item_screen_for_meal_list.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

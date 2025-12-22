@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:ui';
 
-import 'package:calorie/screens/item_screen.dart';
+import 'package:calorie/view/item_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -10,7 +10,7 @@ import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 
 import '../../consts.dart';
 import '../../getx/controller.dart';
-import '../../screens/edit_option_screen.dart';
+import '../../view/edit_option_screen.dart';
 
 Container foodListGenerateItemMeal(
   BuildContext context,
@@ -62,6 +62,7 @@ Container foodListGenerateItemMeal(
           },
           child: Row(
             children: [
+           
               Container(
                 width: 60,
                 height: 60,
